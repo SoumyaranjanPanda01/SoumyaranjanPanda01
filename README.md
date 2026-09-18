@@ -336,23 +336,23 @@ I’m a Data Science student at IIT Madras who genuinely enjoys digging into mes
 <br/>
 
 <p align="center">
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=23f2004742&theme=github_dark"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyaranjanPanda01&theme=github_dark"/>
 </p>
 
 <br/>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=23f2004742&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=23f2004742&theme=github-dark-blue&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SoumyaranjanPanda01&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyaranjanPanda01&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f2004742&layout=compact&theme=github_dark&hide_border=true"/>
-<img height="165" src="https://github-profile-trophy.vercel.app/?username=23f2004742&theme=darkhub&no-frame=true&row=2&column=3"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaranjanPanda01&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-profile-trophy.vercel.app/?username=SoumyaranjanPanda01&theme=darkhub&no-frame=true&row=2&column=3"/>
 </p>
 
 <p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=23f2004742&theme=github-compact&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SoumyaranjanPanda01&theme=github-compact&hide_border=true"/>
 </p>
 
 <p align="center"><i>These update automatically from live GitHub activity, so this section stays current without any manual editing.</i></p>
@@ -413,7 +413,7 @@ I'm always interested in talking about Data Science, Machine Learning, AI, resea
 <br/>
 
 <p align="center">
-<a href="https://github.com/23f2004742"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/SoumyaranjanPanda01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/soumyaranjan-panda-soapp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
