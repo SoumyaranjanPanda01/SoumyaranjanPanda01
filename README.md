@@ -13,8 +13,8 @@
 <br/>
 
 <p align="center">
-<a href="https://github.com/23f2004742"><img src="https://img.shields.io/github/followers/23f2004742?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=533483"/></a>
-<a href="https://github.com/23f2004742"><img src="https://komarev.com/ghpvc/?username=23f2004742&style=for-the-badge&color=0d1117&labelColor=0f3460&label=PROFILE+VIEWS"/></a>
+<a href="https://github.com/SoumyaranjanPanda01"><img src="https://img.shields.io/github/followers/SoumyaranjanPanda01?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=533483"/></a>
+<a href="https://github.com/SoumyaranjanPanda01"><img src="https://komarev.com/ghpvc/?username=SoumyaranjanPanda01&style=for-the-badge&color=0d1117&labelColor=0f3460&label=PROFILE+VIEWS"/></a>
 <img src="https://img.shields.io/badge/Data%20Science-IIT%20Madras-533483?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20%26%20ML-Building-0f3460?style=for-the-badge"/>
 </p>
